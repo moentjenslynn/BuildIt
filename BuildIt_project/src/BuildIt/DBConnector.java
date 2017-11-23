@@ -10,5 +10,8 @@ package BuildIt;
  * @author lmoentje
  */
 public class DBConnector {
+    public void hallo(){
+        System.out.println("Hallo");
+    }
     
 }
