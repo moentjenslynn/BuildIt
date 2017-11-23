@@ -16,5 +16,7 @@ public class DBConnector {
     public void hey(){
         System.out.println("Hey");
     }
-    
+    public void hoi(){
+        System.out.println("Hey");
+    }
 }
